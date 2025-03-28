@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Dániel Gyuris and I'm a beginner fullsack developer, from hungary</h2>
+<h2 align="left">Hi 👋! My name is Dániel Gyuris and I'm a beginner fullstack developer, from hungary</h2>
 
 ###
 
